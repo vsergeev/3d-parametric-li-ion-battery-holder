@@ -27,4 +27,8 @@ Variant can be selected in the data pane of the "Parameters" spreadsheet. Cell d
 
 **Recommended Print Settings:** 0.20mm layer height, 15-100% infill, no supports, PLA/PLA+/PETG/ASA
 
+**Printables:** https://www.printables.com/model/1895330-parametric-li-ion-battery-cell-holder
+
+**Thingiverse:** https://www.thingiverse.com/thing:7428517
+
 **License**: [![CC-BY](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
